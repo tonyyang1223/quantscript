@@ -1,0 +1,12 @@
+build/lib/quantscripts/__init__.py
+build/lib/quantscripts/CointegrationTest .py
+build/lib/quantscripts/ConstructingComprehensive.py
+build/lib/quantscripts/Duration.py
+build/lib/quantscripts/StatisticalFeatures.py
+dist/quantscripts-0.1.2-py3-none-any.whl
+dist/quantscripts-0.1.2.tar.gz
+quantscripts.egg-info/dependency_links.txt
+quantscripts.egg-info/PKG-INFO
+quantscripts.egg-info/requires.txt
+quantscripts.egg-info/SOURCES.txt
+quantscripts.egg-info/top_level.txt
