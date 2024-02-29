@@ -21,4 +21,8 @@ The `StatisticalFeatures` script is dedicated to computing various statistical f
 To use these scripts, follow these general steps:
 
 git clone https://github.com/tonyyang1223/quantscripts.git
-cd financial-analysis-scripts
+cd quantscripts
+
+## Build
+setup.py sdist bdist_wheel
+twine upload dist/*
