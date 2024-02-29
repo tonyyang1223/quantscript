@@ -15,12 +15,11 @@ setup(
     
     author='tonyyang1223',
     author_email='tonyyang1223@gmail.com',
-    description='A package for calculating statistical data in finance',
     long_description=open('README.md').read(),
-    url='https://github.com/tonyyang1223/quantscripts.git',
+    description='A package for calculating statistical data in finance',
     license='MIT',
+    url="https://github.com/tonyyang1223/quantscripts",
     project_urls={
-        'Source': 'https://github.com/tonyyang1223/quantscripts.git',
+        'Source': 'https://github.com/tonyyang1223/quantscripts',
     },
 )
-
