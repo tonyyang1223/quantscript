@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='quantscripts',
-    version='0.1.4',
+    version='0.1.5',
     packages=find_packages(),
     install_requires=[
         # 在这里列出你的包的依赖项
@@ -18,8 +18,8 @@ setup(
     long_description=open('README.md').read(),
     description='A package for calculating statistical data in finance',
     license='MIT',
-    url="https://github.com/tonyyang1223/quantscripts",
+    url="https://github.com/tonyyang1223/quantscripts.git",
     project_urls={
-        'Source': 'https://github.com/tonyyang1223/quantscripts',
+        'Source': 'https://github.com/tonyyang1223/quantscripts.git',
     },
 )
